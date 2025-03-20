@@ -5,6 +5,7 @@ Create Data
 Read Data
 ![Screenshot (244)](https://github.com/user-attachments/assets/bb8769ff-9a89-4968-8e4b-6717868b7dac)
 Update Data
+![Screenshot (246)](https://github.com/user-attachments/assets/771481cb-de91-4f59-86a1-240946eda192)
 Data Setelah di update melalui validasi NIM yang sesuai
 ![Screenshot (247)](https://github.com/user-attachments/assets/6c9260dc-d0e9-4a1b-a3c8-fc4356314103)
 Delete Data
